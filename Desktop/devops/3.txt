@@ -1,0 +1,4 @@
+ git config user.email "bibiayesha12.mys@gmail.com"
+  git config user.name "BI BI AYESHA"
+
+dfbhzgtnjgfm 
